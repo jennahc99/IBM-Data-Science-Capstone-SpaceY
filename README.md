@@ -1,4 +1,4 @@
-# IBM Data Science Capstone Project - SpaceY
+# :rocket: IBM Data Science Capstone Project - SpaceY
 In this capstone project, we use data science tools to predict if a Falcon 9 first stage will land successfully. This information will be used to develop competitive flight pricing for the fictional rocket company space Space Y - headed up by founder Allon Mask.
 
 ## Introduction
